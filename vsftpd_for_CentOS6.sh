@@ -1,5 +1,12 @@
 #!/bin/bash
-
+###################################################
+# File name: vsftpd_for_CentOS6.sh                #
+# Autor zhanghaijun                               #
+# Date: 2016-03-28                                #
+# E-mail: zhj@zhj.cc                              #
+# Website: https://www.diewufeiyang.com           #
+# Github: https://github.com/jingyihome           #
+###################################################
 Install_Vsftpd()
 {
     yum install -y db4* vsftpd

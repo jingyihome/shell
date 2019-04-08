@@ -1,9 +1,12 @@
-####################################################################
-# File Name: redis.sh
-# Author: jingyihome
-# mail: webmaster@loveyan.com
-####################################################################
 #!/bin/bash
+###################################################
+# File name: redis.sh                             #
+# Autor zhanghaijun                               #
+# Date: 2016-03-28                                #
+# E-mail: zhj@zhj.cc                              #
+# Website: https://www.diewufeiyang.com           #
+# Github: https://github.com/jingyihome           #
+###################################################
 REDISPORT=$1
 PASSWD='Test2018!'
 HOSTS="127.0.0.1"
