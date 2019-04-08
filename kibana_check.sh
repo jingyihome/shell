@@ -3,7 +3,7 @@
 # File name: kibana_check.sh                      #
 # Autor zhanghaijun                               #
 # Date: 2016-03-28                                #
-# E-mail: zhj@zhj.cc                              #
+# E-mail: webmaster@loveyan.com                   #
 # Website: https://www.diewufeiyang.com           #
 # Github: https://github.com/jingyihome           #
 ###################################################
