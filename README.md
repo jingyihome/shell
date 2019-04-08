@@ -1,6 +1,4 @@
 # 常用Shell脚本集合
-日常shell脚本
-## 脚本说明
 elasticsearch_clean.sh -> 清理ELK旧数据
 
 redis.sh -> 多端口redis服务管理
